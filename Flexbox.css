@@ -1,0 +1,81 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(0, 0%, 95%);
+}
+nav ul li{
+    display: inline;
+
+}
+nav li a{
+    text-decoration: none;
+    color:  black;
+
+}
+main{
+    width: 50%;
+    /* margin: ; */
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav ul li{
+    display: inline;
+
+}
+nav li a{
+    text-decoration: none;
+    color:  black;
+
+}
+.box{
+    padding: 30px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    
+}
+.box-1{
+background-color: hsl(31, 77%, 52%);
+}
+.box-2{
+    background-color: hsl(184, 100%, 22%);
+}
+.box-3{
+    background-color: hsl(179, 100%, 13%);
+}
+h1{
+    color: hsl(0, 0%, 95%);
+    margin-bottom: 20px;
+}
+p{
+    text-align: left;
+    line-height: 1.5rem;
+}
+
+button{
+    border-radius: 20px;
+    padding: 8px 10px;
+    margin-top: 100px;
+    margin-left: -40px;
+    background-color: hsl(0, 0%, 95%)
+}
+.btn-1{
+    
+    color: hsl(31, 77%, 52%);
+}
+.btn-2{
+    
+    color: hsl(184, 100%, 22%);
+}
+
+.btn-2{
+    
+    color: hsl(179, 100%, 13%);
+}
